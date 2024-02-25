@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web Development (HTML, CSS, JavaScript)</b>
   - [Online Store Cart](https://github.com/ashreyah/Store-Cart)
   - [VeganEats Website](https://github.com/ashreyah/VeganEats-Website)
