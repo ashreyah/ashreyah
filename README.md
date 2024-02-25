@@ -7,7 +7,7 @@
 - <b>Full Stack Web Development (HTML, CSS, JavaScript)</b>
   - [Online Store Cart](https://github.com/ashreyah/Store-Cart)
   - [VeganEats Website](https://github.com/ashreyah/VeganEats-Website)
-  - [Kombits Website](https://github.com/ashreyah/Kombit-website)
+  - [Kombit Website](https://github.com/ashreyah/Kombit-website)
 - <b>Database (SQL, MySQL)</b>
   - [Resturant-Database](https://github.com/ashreyah/Resturant-Database)
 - <b>C++</b>
