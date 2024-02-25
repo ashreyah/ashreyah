@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ahshreyah! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Software/Web Developer</a></h1>
+<h1>Hi, I'm Ahshreyah! <br/><a href="https://github.com/ashreyah">Programmer</a>, <a href="https://www.linkedin.com/in/ahshreyah-ross/">Softwarem & Web Developer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -17,8 +17,8 @@
 -->
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="AhshreyahRoss | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AhshreyahRoss | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AhshreyahRoss | LinkedIn" width="22px" src="https://www.linkedin.com/in/ahshreyah-ross/" />][linkedin]
+[<img align="left" alt="AhshreyahRoss | Instagram" width="22px" src="#" />][instagram]
 
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
