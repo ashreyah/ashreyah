@@ -4,8 +4,9 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (HTML, CSS, JavaScript)</b>
+- <b>Full Stack Web Development (HTML, CSS, JavaScript)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Image Analysis Middleware]()
 - <b>Database (SQL, MySQL)</b>
   - [Resturant-Database](https://github.com/ashreyah/Resturant-Database)
 - <b>C++</b>
