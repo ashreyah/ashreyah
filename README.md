@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Full Stack Web Development (HTML, CSS, JavaScript)</b>
+- <b>Full Stack Web Development (HTML, CSS, JavaScript, PHP)</b>
   - [Online Store Cart](https://github.com/ashreyah/Store-Cart)
   - [VeganEats Website](https://github.com/ashreyah/VeganEats-Website)
   - [Kombit Website](https://github.com/ashreyah/Kombit-website)
