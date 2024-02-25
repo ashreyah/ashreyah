@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ahshreyah! <br/><a href="https://github.com/ashreyah">Programmer</a>, <a href="https://www.linkedin.com/in/ahshreyah-ross/">Softwarem & Web Developer</a></h1>
+<h1>Hi, I'm Ahshreyah! <br/><a href="https://github.com/ashreyah">Programmer</a>, <a href="https://www.linkedin.com/in/ahshreyah-ross/">Software & Web Developer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
