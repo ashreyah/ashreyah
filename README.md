@@ -7,7 +7,7 @@
 - <b>Full Stack Web App (HTML, CSS, JavaScript)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Database (SQL, MySQL)</b>
-  - [Database-project](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Resturant-Database](https://github.com/ashreyah/Resturant-Database)
 - <b>C++</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
